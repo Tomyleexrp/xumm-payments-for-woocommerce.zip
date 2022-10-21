@@ -1,0 +1,1 @@
+# xumm-payments-for-woocommerce.zip
